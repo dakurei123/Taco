@@ -1,0 +1,27 @@
+BÁO CÁO CUỐI KÌ NHÓM 2
+1.Thành viên và đóng góp:
+-Nguyễn Trọng Chính:
+	Tìm hiểu miền ứng dụng
+	Mô hình hóa lớp thực thể
+	Thiết kế các class diagram cơ bản và chi tiết
+-Nguyễn Duy Hùng: 
+	Xác định yêu cầu
+	Mô hình hóa động tổng quát (biểu đồ trạng thái)
+	Thiết kế biểu đồ tuần tự, tương tác
+-Tạ Đức Phong: 
+	Xác định mô hình nghiệp vụ
+	Mô hình hóa chức năng  Kịch bản
+	Thiết kế biểu đồ tương tác, vẽ các class diagram
+-Làm Chung:
+	Trích rút lớp biên, lớp điều khiển, mô tả các usecase qua biểu đồ tương tác, vẽ các biểu đồ
+	Thiết kế kiến trúc và cả thiết kế chi tiết, viết thử về giả mã
+	Xây dựng test case cho kiểm thử chức năng của một module
+	Xây dựng test case có sử dụng lớp tương đương và giá trị biên.
+2.Tổng hợp các lần lặp qua từng luồng công việc:
+-Bước xác định yêu cầu: Lặp lại 1 lần
+	Tìm hiểu kĩ hơn về miền ứng dụng, làm lại use case tổng quát, xác định lại thuật ngữ
+-Bước Phân tích: Lặp lại 2 lần
+	Lần lặp 1, hiện thực hóa, thể hiện và mô tả thêm các usecase qua biểu đồ tương tác và biểu đồ tuần tự.
+	Lần lặp 2:
+		+) Gộp chung thực thể quản lý và nhân viên thành user
+		+) Gộp chung module “thống kê xe theo doanh thu” và “thống kê khách hàng theo doanh thu” thành module “thống kê”
